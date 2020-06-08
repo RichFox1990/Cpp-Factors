@@ -3,7 +3,8 @@
 Debug/
 
 # ignore .filters and .user
-
+*.vcxproj
+*.sln
 *.filters
 *.user
 
